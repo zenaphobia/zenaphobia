@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zenaphobia
-- 👀 I’m interested in Three.js, and 3D modeling!
+- 👀 I’m interested in Three.js and 3D design!
 - 🌱 I’m currently learning Three.js and front end development.
 
 <!---
