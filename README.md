@@ -1,5 +1,5 @@
 Hello! My name is Alex 👋
-I am a creative designer looking to break into the world of web development, I am currenlty learning front-end development, and building full-stack aplications using Svelte!
+I am a wed developer with a background in multimedia production. I am currenlty learning front-end development and building full-stack aplications using Svelte!
 
 <!---
 zenaphobia/zenaphobia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
